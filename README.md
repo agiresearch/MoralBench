@@ -1,5 +1,4 @@
-# MoralBench
-MoralBench: Evaluating the Moral of Large Language Models
+# MoralBench: Moral Evaluation of LLMs
 
 ### Description
     Here is the code for MoralBench, for more detail of the Benchmark you can use the following link
