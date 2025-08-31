@@ -7,3 +7,19 @@
 
 ### Running (`main.py`)
     python rec.py
+
+
+## 🖋️ Research
+
+```
+@article{ji2025moralbench,
+  title={Moralbench: Moral evaluation of llms},
+  author={Ji, Jianchao and Chen, Yutong and Jin, Mingyu and Xu, Wujiang and Hua, Wenyue and Zhang, Yongfeng},
+  journal={ACM SIGKDD Explorations Newsletter},
+  volume={27},
+  number={1},
+  pages={62--71},
+  year={2025},
+  publisher={ACM New York, NY, USA}
+}
+```
