@@ -23,3 +23,6 @@
   publisher={ACM New York, NY, USA}
 }
 ```
+Third-Party Implementations
+
+MoralBench has also been implemented in [DeepSteer](https://github.com/deepsteer/deepsteer/), providing an alternative way to run and reproduce MoralBench evaluations.
